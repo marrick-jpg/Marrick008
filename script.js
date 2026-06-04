@@ -40,7 +40,7 @@ buildGallery("gallery-tank400", "tank400", tank400);
 buildGallery("gallery-edg", "edg", edg);
 
 // ===== language toggle =====
-let lang = "zh";
+let lang = "en";
 const btn = document.getElementById("langToggle");
 
 function applyLang() {
